@@ -1,0 +1,3 @@
+﻿  Assignment3Q4.cpp
+C:\Users\Ralvu\source\repos\Assignment3Q4\Assignment3Q4\Assignment3Q4.cpp(210,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Assignment3Q4.vcxproj -> C:\Users\Ralvu\source\repos\Assignment3Q4\Debug\Assignment3Q4.exe
